@@ -1,4 +1,4 @@
-#Table of Contents  
+# Table of Contents  
 
 [TOC]
 
@@ -15,11 +15,11 @@
 
 * * *
 
-##Getting Sqlite3
+## Getting Sqlite3
   For this tutorial we will be using sqlite3 as our relational database management system.  
   To install and use sqlite 3 follow instructions at: https://www.tutorialspoint.com/sqlite/sqlite_installation.htm  
   The tutorial covers Linux, Mac, and Windows installations
-##Data we will use
+## Data we will use
   To better ilustrate how specific statements work, we will be using an SQL file to create a database that we can queries on.
     
   SQL file: [Download](https://www.dropbox.com/s/vql9wia6vqbcq5s/Movies.sql?dl=1)
@@ -27,7 +27,7 @@
 ## Getting to know Sqlite3
 * * *
   Different relational database management systems will have different command line interfaces and ways that you can display and output your data.  Therefore getting to know sqlite3 is useful if you want to take full advantage of the system you are using.  
-###Start up arguments  
+### Start up arguments  
 When SQL is launched you can either provide a database for it to connect to, or use an ethereal database.
   
 * When connecting to a database your data will be saved in the file you specify.  
